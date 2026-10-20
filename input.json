@@ -1,0 +1,9 @@
+{
+  "searchQuery": "isaac asimov foundation",
+  "searchField": "all",
+  "maxResults": 10,
+  "language": "",
+  "proxyConfiguration": {
+    "useApifyProxy": false
+  }
+}
