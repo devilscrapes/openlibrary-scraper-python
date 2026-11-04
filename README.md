@@ -122,10 +122,9 @@ Each row is one work. You can rely on `openlibrary_key`, `title` and `work_url`;
 
 | Event | Price (USD) |
 |---|---|
-| Actor start | $0.2 |
 | Result emitted | $0.0015 |
 
-Prices as configured on 2026-08-20. The [Actor page](https://apify.com/DevilScrapes/openlibrary-books-scraper) always shows the current price. Runs are billed to the Apify account that owns the token. Use `--max-charge` to cap what a single run can cost.
+Prices as configured on 2026-11-03. The [Actor page](https://apify.com/DevilScrapes/openlibrary-books-scraper) always shows the current price. Runs are billed to the Apify account that owns the token. Use `--max-charge` to cap what a single run can cost.
 
 ## 🛠️ Working with the data in Python
 
